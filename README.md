@@ -17,3 +17,8 @@ WICHTIG:
 
 Bei der Programmierung der Umverteilung im Falle von ungleichen Gruppengrößen und bei der GUI-Erstellung 
 wurde ChatGPT als Hilfestellng verwendet.
+
+
+Bei der Ausführung der .exe-Datei kann eine Windows-Warnung erscheinen. 
+Das liegt daran, dass die Software nicht über eine (kostenpflichtige) digitale Signatur verfügt. 
+Sie kann aber mit einem Klick auf "Trotzdem ausführen" gefahrlos ausgeführt werden.
